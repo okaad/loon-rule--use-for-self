@@ -1,3 +1,5 @@
+#emby
+
 #1111
 DOMAIN-KEYWORD,line.xmsl
 DOMAIN-KEYWORD,filmplay
@@ -11,3 +13,6 @@ DOMAIN-KEYWORD,nijigem.by
 DOMAIN,plus.younoyes.com
 #存档服
 DOMAIN,emby.zn.al
+
+#哔咔漫画
+picaapi.picacomic.com
