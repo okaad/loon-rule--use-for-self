@@ -1,0 +1,14 @@
+#micu
+DOMAIN-KEYWORD,micu
+#阿尔法
+IP-CIDR,43.139.184.65/32
+DOMAIN-KEYWORD,aaa.204cloud.com
+#众筹
+DOMAIN-KEYWORD,pemby
+DOMAIN-KEYWORD,raisemby
+#YounoPlus
+DOMAIN-KEYWORD,younoyes
+#1111
+DOMAIN-KEYWORD,loseremby.org
+#私服
+DOMAIN,frp2.kkszxc.top
