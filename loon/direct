@@ -2,7 +2,8 @@
 #emby
 
 #micu
-DOMAIN-KEYWORD,micu
+DOMAIN,tv.micu.hk
+DOMAIN,tv1.micu.hk
 #阿尔法
 IP-CIDR,43.139.184.65/32
 DOMAIN-KEYWORD,aaa.204cloud.com
