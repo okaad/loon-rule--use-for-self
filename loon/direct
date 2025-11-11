@@ -4,6 +4,8 @@
 #micu
 DOMAIN,tv.micu.hk
 DOMAIN,tv1.micu.hk
+DOMAIN,v1.micu.hk
+DOMAIN,v2.micu.hk
 #阿尔法
 IP-CIDR,43.139.184.65/32
 DOMAIN-KEYWORD,aaa.204cloud.com
